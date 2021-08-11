@@ -1,0 +1,21 @@
+courseNumber,courseName,courseLocation,maxStudents
+BUS3017,International Business Operations,"Sun Yat Sen Memorial Hall, Room 190",30
+CUS1241,Intro to Java,"Sullivan Hall, Room 246",19
+SOC1149,Intro to Sociology,"Sun Yat Sen Memorial Hall, Room 215",21
+THE1033,Intro to Theology,"St. Augustine Hall, Room 161",18
+MTH1027,Statistics 1,"Sullivan Hall, Room 232",25
+EDU1212,Teaching DBMS,"Sullivan Hall, Room 114",27
+BIO1024,Intro to Biology,"Bent Hall, Room 281",18
+ART2028,Sculture Theory,"Sun Yat Sen Memorial Hall, Room 260",22
+BIO3134,Advanced Molecular Biology,"Bent Hall, Room 263",24
+CUS2129,Advanced Data Structures,"Sullivan Hall, Room 150",18
+EGR2030,Mechanical Systems,"Marillac Hall, Room 112",25
+BIO2231,Bioinformatics,"Bent Hall, Room 277",28
+PSY2137,Adolescent Psychology,"Sun Yat Sen Memorial Hall, Room 280",24
+BIO2214,Marine Biology,"Bent Hall, Room 108",29
+EDU2118,Adolescent Education,"Sun Yat Sen Memorial Hall, Room 251",21
+BUS2230,Business Ethics,"St. Augustine Hall, Room 129",15
+HIS1014,Intro to Global History,"D'Angelo Center, Room 124",23
+CUS3048,Software Engineering,"Sullivan Hall, Room 246",19
+COM2145,"Media, Culture, and Society","St. Augustine Hall, Room 208",26
+CUS2117,Artificial Intelligence,"Sullivan Hall, Room 195",25
