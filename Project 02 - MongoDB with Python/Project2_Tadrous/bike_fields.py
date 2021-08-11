@@ -1,0 +1,5 @@
+BIKE_ID = "_id"
+MODEL = "bikeName"
+CURRENT_KIOSK_ID = "kioskID"
+TIME_ARR = "timeArrived"
+AT_KIOSK = "atKiosk"

@@ -1,0 +1,97 @@
+[{
+  "_id": 1,
+  "bikeName": "ToughBike Classic",
+  "kioskID": 4,
+  "timeArrived": {
+    "$date": "2021-03-27T19:04:31.439Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 2,
+  "bikeName": "FastBike",
+  "kioskID": 3,
+  "timeArrived": {
+    "$date": "2021-03-27T18:27:14.348Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 3,
+  "bikeName": "ToughBike XTreme",
+  "kioskID": 3,
+  "timeArrived": {
+    "$date": "2015-02-18T15:33:46Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 4,
+  "bikeName": "Lucille",
+  "kioskID": 2,
+  "timeArrived": {
+    "$date": "2015-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 6,
+  "bikeName": "SuperFast",
+  "kioskID": 3,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 7,
+  "bikeName": "Kona Humuhumunukunukuapua'a",
+  "kioskID": 4,
+  "timeArrived": {
+    "$date": "2021-03-27T19:05:35.559Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 8,
+  "bikeName": "Clockwork",
+  "kioskID": 1,
+  "timeArrived": {
+    "$date": "2021-03-27T18:29:19.778Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 9,
+  "bikeName": "TailWind",
+  "kioskID": 1,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 10,
+  "bikeName": "Road Dust",
+  "kioskID": 3,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 11,
+  "bikeName": "The Flying Englishman",
+  "kioskID": 4,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 12,
+  "bikeName": "Trek",
+  "kioskID": 1,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+},{
+  "_id": 13,
+  "bikeName": "Mr. Bean",
+  "kioskID": 1,
+  "timeArrived": {
+    "$date": "2021-02-19T16:25:28Z"
+  },
+  "atKiosk": "Y"
+}]

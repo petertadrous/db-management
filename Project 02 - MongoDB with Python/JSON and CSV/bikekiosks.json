@@ -1,0 +1,40 @@
+[{
+  "_id": 1,
+  "addr1": "Broadway&23rd",
+  "addr2": "\\N",
+  "city": "NYC",
+  "state": "NY",
+  "zip": 11111,
+  "capacity": 6,
+  "numReturns": 1,
+  "numCheckouts": 2
+},{
+  "_id": 2,
+  "addr1": "603 Avenue A",
+  "addr2": "\\N",
+  "city": "NYC",
+  "state": "NY",
+  "zip": 12222,
+  "capacity": 2,
+  "numReturns": 0,
+  "numCheckouts": 1
+},{
+  "_id": 3,
+  "addr1": "333 First Avenue",
+  "addr2": "northbound",
+  "city": "NYC",
+  "state": "NY",
+  "zip": 11111,
+  "capacity": 4,
+  "numReturns": 0,
+  "numCheckouts": 0
+},{
+  "_id": 4,
+  "addr1": "655 Columbus Ave",
+  "city": "NYC",
+  "state": "NY",
+  "zip": 12111,
+  "capacity": 5,
+  "numReturns": 2,
+  "numCheckouts": 0
+}]
